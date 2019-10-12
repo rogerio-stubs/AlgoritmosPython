@@ -1,7 +1,6 @@
 # Python-Algorithms
 
-Estou estudando Python com o objetivo de seguir carreira como cientista de dados. Neste repositório vou colocar alguns algoritmos como:
-
+Estou estudando Python e neste repositório vou colocar alguns algoritmos como:
 <dl>
   <dt>Fibonacci</dt>
   <dd>Sequência de números inteiros, começando normalmente por 0. Cada termo corresponde a soma dos dois anteriores</dd>
