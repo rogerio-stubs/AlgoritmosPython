@@ -12,3 +12,8 @@ Estou estudando Python e neste repositório vou colocar alguns algoritmos como:
   <dt>Stack</dt>
   <dd>Pilhas são estruturas de dados em que só é possível inserir um novo elemento no final da pilha e só é possível remover um elemento do final da pilha. Dizemos que pilhas seguem um protocolo em que o último a entrar é o primeiro a sair.</dd>
 </dl>
+
+<dl>
+  <dt>URI Online Judge</dt>
+  <dd>Plataforma para patricar e aprimorar suas habilidades em algoritmos e linguagens de programação https://www.urionlinejudge.com.br/judge/en/login.</dd>
+</dl>
