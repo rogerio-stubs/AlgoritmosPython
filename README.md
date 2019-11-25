@@ -17,3 +17,9 @@ Estou estudando Python e neste repositório vou colocar alguns algoritmos como:
   <dt>URI Online Judge</dt>
   <dd>Plataforma para patricar e aprimorar suas habilidades em algoritmos e linguagens de programação https://www.urionlinejudge.com.br/judge/en/login.</dd>
 </dl>
+
+
+<dl>
+  <dt>Algoritmos de Ordenação</dt>
+  <dd>Implementação dos algoritmos Selection Sort, Insertion Sort - http://www.algoritmosempython.com.br/cursos/algoritmos-python/pesquisa-ordenacao/intro-ordenacao</dd>
+</dl>
