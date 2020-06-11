@@ -1,4 +1,4 @@
-# Python Algorithms
+# Python Algoritmos
 
 Estou estudando Python e neste repositório vou colocar alguns algoritmos como:
 
